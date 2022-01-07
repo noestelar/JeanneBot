@@ -7,6 +7,8 @@ Logicamente y como es de esperar, todos los ID de canales, usuarios, bases de da
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 _Para utilizar este proyecto, puedes descargarlo desde este mismo repositorio y guardarlo en alguna carpeta o un host web_
+
+
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
@@ -29,11 +31,25 @@ complementos de Node:
 
 
 ## Ejecutando las pruebas ⚙️
+Ejecutar el comando !help o !helpadmin para ver la lista de comandos en Discord
+_La lista de comandos es la siguiente_
+```
+- Hacer anuncios en un canal
+- Canal de logs para moderadores
+- Banear usuarios
+- Advertir usuarios
+- Postear imagenes de super smash bros y sus personajes.
+- Mostrar las redes de la comunidad.
+- Sacar usuarios del servidor
+- Calcular el porcentaje de atracción entre dos usuarios
+- Sistema de bodas para usuarios
+- Imagenes de smash bros
+- Canal de buzon de sugerencias
+- Mensajes especiales para cada día de la semana
+- Juego de adivinanzas bola mágica (con respuestas de sí, no, tal vez)
 
+```
 
-### Analice las pruebas end-to-end 🔩
-
-### Y las pruebas de estilo de codificación ⌨️
 
 ## Despliegue 📦
 
