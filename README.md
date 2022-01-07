@@ -1,4 +1,7 @@
-# JeanneBOT 1.8 Final [Outdated]
+![image](https://user-images.githubusercontent.com/95829890/148620720-00a89c7e-3761-4703-acf2-cd61e681e704.png) 
+# JeanneBOT 1.8 Final [Outdated] 
+
+![](https://img.shields.io/badge/Version-Final%201.8-green)
 
 _El bot oficial de la comunidad de Discord de Distorted Emerald, la cual ya no está en funcionamiento, pero el proyecto se queda aquí para futuros proyectos y para desarrolladores de bots que estén interesados en mirar ejemplos parecidos.
 Logicamente y como es de esperar, todos los ID de canales, usuarios, bases de datos y solicitudes han sido modificados para proteger la información original, sustituidos por cadenas de numeros aleatorios. así que no trates de buscar_
