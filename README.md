@@ -1,6 +1,7 @@
 # JeanneBOT 1.8 Final [Outdated]
 
-_El bot oficial de la comunidad de Discord de Distorted Emerald, la cual ya no está en funcionamiento, pero el proyecto se queda aquí para futuros proyectos y para desarrolladores de bots que estén interesados en mirar ejemplos parecidos._
+_El bot oficial de la comunidad de Discord de Distorted Emerald, la cual ya no está en funcionamiento, pero el proyecto se queda aquí para futuros proyectos y para desarrolladores de bots que estén interesados en mirar ejemplos parecidos.
+Logicamente y como es de esperar, todos los ID de canales, usuarios, bases de datos y solicitudes han sido modificados para proteger la información original, sustituidos por cadenas de numeros aleatorios. así que no trates de buscar_
 
 ## Comenzando 🚀
 
