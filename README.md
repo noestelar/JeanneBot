@@ -1,30 +1,60 @@
-# hello-express
+# JeanneBOT 1.8 Final [Outdated]
 
-A server that serves a webpage, its resources, and some data
+_El bot oficial de la comunidad de Discord de Distorted Emerald, la cual ya no está en funcionamiento, pero el proyecto se queda aquí para futuros proyectos y para desarrolladores de bots que estén interesados en mirar ejemplos parecidos._
 
+## Comenzando 🚀
 
-## Your Project
-
-On the front-end,
-
-- Edit `views/index.html` to change the content of the webpage
-- `public/client.js` is the javacript that runs when you load the webpage
-- `public/style.css` is the styles for `views/index.html`
-- Drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy.
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Para utilizar este proyecto, puedes descargarlo desde este mismo repositorio y guardarlo en alguna carpeta o un host web_
+Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-## Made by [Glitch](https://glitch.com/)
+### Pre-requisitos 📋
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+_Para utilizar este proyecto, se requieren los siguientes componentes_
+```
+- NodeJS 16.13 o superior
+complementos de Node:
+-- discord.js 12.2.0
+-- express 4.17.1
+    sqlite3" "^4.2.0",
+    firefiles-wrapper": "^1.0.1",
+    megadb: "^3.4.0",
+    node-superfetch": "^0.1.10",
+    sqlite" "^4.0.10
 
-Find out more [about Glitch](https://glitch.com/about).
+```
+### Instalación 🔧
+
+
+## Ejecutando las pruebas ⚙️
+
+
+### Analice las pruebas end-to-end 🔩
+
+### Y las pruebas de estilo de codificación ⌨️
+
+## Despliegue 📦
+
+El deploy se ha hecho a través de glitch.
+## Construido con 🛠️
+
+* [NodeJS]() - Manejador de dependencias
+* [JavaScript]() - Para que el proyecto se mueva
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
+
+
+## Autores ✒️
+
+* **Noé Rivera Lugo** - *Trabajo Inicial y documentación* - [noe-ali](https://github.com/noe-ali)
+
+---
+⌨️ con ❤️ por [Noe-ali](https://github.com/noe-ali) 😊
 
 ( ᵔ ᴥ ᵔ )
