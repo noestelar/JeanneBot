@@ -35,6 +35,9 @@ complementos de Node:
 
 ## Ejecutando las pruebas ⚙️
 Ejecutar el comando !help o !helpadmin para ver la lista de comandos en Discord
+
+![jeanne1](https://github.com/Noe-ali/JeanneBot/assets/95829890/8ea3bffe-5e44-4ebd-b1df-5475a3507b40)
+
 _La lista de comandos es la siguiente_
 ```
 - Hacer anuncios en un canal
